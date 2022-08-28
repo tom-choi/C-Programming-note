@@ -1,3 +1,0 @@
-﻿  ConsoleApplication7.cpp
-D:\C++\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(9,16): error C2065: 'my_age': 未宣告的識別項
-D:\C++\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(10,9): error C2065: 'my_age': 未宣告的識別項
