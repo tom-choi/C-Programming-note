@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (澳大CISC1004.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  澳大CISC1004.vcxproj -> D:\C++\澳大CISC1004\Debug\澳大CISC1001.exe
