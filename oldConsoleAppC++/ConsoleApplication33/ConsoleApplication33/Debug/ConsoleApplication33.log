@@ -1,0 +1,12 @@
+﻿  ConsoleApplication33.cpp
+D:\C++\ConsoleApplication33\ConsoleApplication33\ConsoleApplication33.cpp(10,6): error C2065: 'a': 未宣告的識別項
+D:\C++\ConsoleApplication33\ConsoleApplication33\ConsoleApplication33.cpp(10,11): error C2065: 'b': 未宣告的識別項
+D:\C++\ConsoleApplication33\ConsoleApplication33\ConsoleApplication33.cpp(11,6): error C2065: 'b': 未宣告的識別項
+D:\C++\ConsoleApplication33\ConsoleApplication33\ConsoleApplication33.cpp(18,14): error C2665: 'std::swap': 沒有任何 2 多載可以轉換所有引數類型
+D:\C++\ConsoleApplication33\ConsoleApplication33\ConsoleApplication33.cpp(7,6): message : 可能是 'void swap(int *,int *)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\utility(102,19): message : 或       'void std::swap<std::ios_base::iostate,0>(_Ty &,_Ty &) noexcept'
+          with
+          [
+              _Ty=std::ios_base::iostate
+          ]
+D:\C++\ConsoleApplication33\ConsoleApplication33\ConsoleApplication33.cpp(18,14): message : 當嘗試符合引數清單 '(int, int)' 時

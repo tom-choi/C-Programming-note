@@ -1,0 +1,3 @@
+﻿  ConsoleApplication58.cpp
+D:\C++\ConsoleApplication58\ConsoleApplication58\ConsoleApplication58.cpp(32,9): warning C4101: 'tranform': 未參考的區域變數
+  ConsoleApplication58.vcxproj -> D:\C++\ConsoleApplication58\Debug\ConsoleApplication58.exe

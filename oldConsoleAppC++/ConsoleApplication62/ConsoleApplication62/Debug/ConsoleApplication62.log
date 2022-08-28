@@ -1,0 +1,3 @@
+﻿  ConsoleApplication62.cpp
+D:\C++\ConsoleApplication62\ConsoleApplication62\ConsoleApplication62.cpp(11): warning C4172: 傳回區域變數或暫存的位址: a
+  ConsoleApplication62.vcxproj -> D:\C++\ConsoleApplication62\Debug\ConsoleApplication62.exe
