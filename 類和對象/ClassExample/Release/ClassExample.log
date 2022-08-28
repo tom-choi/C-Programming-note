@@ -1,0 +1,7 @@
+﻿  複習_分割字符串並輸出.cpp
+D:\C++\ClassExample\ClassExample\複習_分割字符串並輸出.cpp(15,17): warning C4018: '<': signed/unsigned 不相符
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 103 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  ClassExample.vcxproj -> D:\C++\ClassExample\Release\ClassExample.exe
