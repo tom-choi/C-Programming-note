@@ -7,6 +7,14 @@ C++筆記
 
 文件很多，不要下載整個倉庫!
 
+筆記觀看順序: 
+1. oldConsoleAppC++/ConsoleApplication
+2. 類和對象
+3. 多態
+4. 模板
+5. STL庫
+6. oldAdvC++
+
 ## 具體學習的bilibili影片:
 
 黑马程序员匠心之作|C++教程从0到1入门编程,学习编程不再难
