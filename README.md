@@ -22,6 +22,6 @@ C++筆記
 https://www.bilibili.com/video/BV1et411b73Z?from=search&seid=12733657057121830480&spm_id_from=333.337.0.0
 
 
-C++ 零基础 入门到完全独立开发 合集 
+[C++ 零基础 入门到完全独立开发 合集 ](https://www.bilibili.com/video/BV13E41117BP)
 
-https://www.bilibili.com/video/BV1KJ411k7fX?from=search&seid=2065720770253617652&spm_id_from=333.337.0.0
+
